@@ -1,5 +1,5 @@
 # osu! beater
-osu! beater is a tool to play osu beatmaps with note sounds
+osu! beater is a tool to play osu! beatmaps without osu client, with beatmap sounds!
 
 # Install
 1. Install ffplay and add it to PATH
@@ -26,6 +26,7 @@ l - List available .osu files
 # Already-known issues
 - Slider delay is buggy
 - Only osu! original mode maps are supported
+- Software is ignoring hitsounds from the beatmap and the type of sound (drums, hi-hats, etc.)
 
 If you know how to fix these, please fork this repo, add your modifications and create a pull request! Thanks!
 
