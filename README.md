@@ -20,7 +20,8 @@ Slider Delay - a delay between slider ticks. Use -1 to leave it for software, or
 
 p - Play music
 h - Show help
-l - List available .osu files```
+l - List available .osu files
+```
 
 # Already-known issues
 - Slider delay is buggy
