@@ -28,3 +28,6 @@ l - List available .osu files
 - Only osu! original mode maps are supported
 
 If you know how to fix these, please fork this repo, add your modifications and create a pull request! Thanks!
+
+# Disclaimer
+THIS SOFTWARE IS NOT ASSOCIATED WITH ppy Pty Ltd AND IT IS NOT OFFICIAL SOFTWARE RELEASED BY osu! OR ppy Pty Ltd!
